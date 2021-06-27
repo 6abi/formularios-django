@@ -3,7 +3,7 @@
 <h1 align="center">Formulários-django</h1>
 
 <div class="box" align="center" display='flex'>
-	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="80" height="80"/></a><a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="60" alt="Python3" /></a>
+	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="80" height="80"/></a><a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="40" alt="Python3" /></a>
 </div>
 
 
