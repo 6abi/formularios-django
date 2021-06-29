@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <title>Passagem</title>
-</head>
-<body>
-    <section class="container mt-4">
-        <h1>Passagem</h1>
-        {{ form }}
-        <input type="submit" value="Ok" class="btn btn-success">
-    </section>
+{% extends "base.html" %}
 
-</body>
-</html>
+{% block content %}
+<form action="{% url 'minha_consulta' %}" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Ok" class="btn btn-success">
+</form>
+{% endblock %}
