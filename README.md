@@ -47,7 +47,7 @@
 	<h2 align="center"> ⚡ Resultado Forms ⚡</h2>
 </div>
 <div align="center" class='result'>
-	<img alt="#result_form" title="#result_form" src="./results_git/img.png" width="700" height="500"/>
+	<img alt="#result_form" title="#result_form" src="./results_git/img.png" width="800" height="500"/>
 </div>
 
 <!-- Resultado fticket -->
@@ -55,7 +55,7 @@
 	<h2 align="center">⚡ Resultado Ticket ⚡</h2>
 </div>
 <div align="center" class='result'>
-	<img alt="result_ticket" title="#result_ticket" src="./results_git/img_1.png" width="700" height="500"/>
+	<img alt="result_ticket" title="#result_ticket" src="./results_git/img_1.png" width="800" height="500"/>
 </div>
 
 
