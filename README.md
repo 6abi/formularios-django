@@ -12,7 +12,7 @@
 
  <!-- Status do projeto -->
 <h4 align="center"> 
-	🚧  Formulários com Django 🚀 Em construção...  🚧
+	 ✅ Formulários com Django  ✔ Finalizado ! ✅ 
 </h4>
 
 
@@ -42,14 +42,23 @@
 </div>
 
 <!-- Resultados -->
-<!-- Resultado banco de dados -->
-<!-- <div align="center" class='container'>
-	<h2 align="center">>Resultado banco de dados</h2>
+<!-- Resultado forms -->
+<div align="center" class='container'>
+	<h2 align="center">>Resultado Forms</h2>
 </div>
 <div align="center" class='result'>
-	<img alt="resultado_postgre" title="#resultado_postgre" src="./static/img/final_result_postgre.gif" width="700" height="350"/>
+	<img alt="#result_form" title="#result_form" src="./results_git/img.png" width="700" height="350"/>
 </div>
- -->
+
+<!-- Resultado fticket -->
+<div align="center" class='container'>
+	<h2 align="center">>Resultado Ticket</h2>
+</div>
+<div align="center" class='result'>
+	<img alt="result_ticket" title="#result_ticket" src="./results_git/img_1.png" width="700" height="350"/>
+</div>
+
+
 
 
 
