@@ -64,7 +64,7 @@
 	<h2 align="center">⚡ Resultado Ticket ⚡</h2>
 </div>
 <div align="center" class='result'>
-	<img alt="result_ticket" title="#result_ticket" src="./results_git/img_1.png" width="1000" height="600"/>
+	<img alt="r_ticket" title="#result_ticket" src="./results_git/img_1.png" width="1000" height="600"/>
 </div>
 
 
